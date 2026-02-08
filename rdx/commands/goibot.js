@@ -13,7 +13,7 @@ const BOY_OWNERS = {
 
 // Girl Owners (Malkin)
 const GIRL_OWNERS = {
-  'GIRL UID': { name: 'SARA', gender: 'girl' }  // 
+  '61578324150260': { name: 'SARA', gender: 'girl' }  // 
 };
 
 const BOT_NAME = 'Mano';
