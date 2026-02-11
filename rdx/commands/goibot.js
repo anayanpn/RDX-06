@@ -4,7 +4,7 @@ const path = require('path');
 
 const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 
-const API_KEYS = ['ADD YOUR API KEYS HERE - GET FROM https://cerebras.ai./'];
+const API_KEYS = ['csk-c4vvtj8m8p3nmnced6v8evf9fc6xf68y5j5yctdhe4j52nkn'];
 
 // Boy Owners (Malik)
 const BOY_OWNERS = {
